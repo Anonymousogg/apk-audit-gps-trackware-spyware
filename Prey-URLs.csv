@@ -1,0 +1,8 @@
+Type,URL,Host,DNSSEC,TLS,VirusTotal
+AD,https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps,pagead2.googlesyndication.com,-,TLS1.0,OK
+AD,https://www.googleapis.com/auth/games,www.googleapis.com,-,TLS1.0,OK
+AD,https://plus.google.com/,plus.google.com,-,-,OK
+AD,https://app-measurement.com/a,app-measurement.com,-,TLS1.0,OK
+AD,https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings,firebase-settings.crashlytics.com,-,TLS1.0,OK
+AD,,firebaseinstallations.googleapis.com,-,TLS1.0,OK
+APP,https://solid.preyproject.com/api/v2/devices/,solid.preyproject.com,-,TLS1.3,OK
