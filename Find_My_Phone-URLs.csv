@@ -1,0 +1,11 @@
+Type,URL,Host,DNSSEC,TLS,VirusTotal
+AD,https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps,pagead2.googlesyndication.com,-,TLS1.0,OK
+APP,https://www.googleapis.com/auth/games,www.googleapis.com,-,TLS1.0,OK
+AD,https://plus.google.com/,plus.google.com,-,TLS1.0,OK
+AD,https://app-measurement.com/a,app-measurement.com,-,TLS1.0,OK
+AD,https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s,www.googleadservices.com,-,TLS1.0,OK
+APP,https://makeevapps.com/findmyphone/privacy_policy.html,makeevapps.com,-,TLS1.3,OK
+APP,https://developer.apple.com/streaming/emsg-id3,developer.apple.com,-,TLS1.3,OK
+APP,https://aomedia.org/emsg/ID3,aomedia.org,-,TLS1.3,OK
+
+
