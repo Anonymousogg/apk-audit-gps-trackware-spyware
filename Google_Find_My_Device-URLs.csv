@@ -1,0 +1,17 @@
+Type,URL,Host,DNSSEC,TLS,VirusTotal
+APP,https://accounts.google.com/o/oauth2/cl,accounts.google.com,-,TLS1.0,OK
+APP,https://www.google.com/android/find/limited_oauthcallback,www.google.com,-,TLS1.0,OK
+APP,https://www.googleapis.com/auth/android_device_manager_limited,www.googleapis.com,-,TLS1.0,OK
+APP,https://myaccount.google.com/security-checkup,myaccount.google.com,-,TLS1.0,OK
+APP,https://www.googleapis.com/auth/spot,www.googleapis.com,-,TLS1.0,OK
+AD,https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps,pagead2.googlesyndication.com,-,TLS1.0,OK
+AD,https://plus.google.com/,plus.google.com,-,TLS1.0,OK
+APP,https://android.googleapis.com/dogfood,android.googleapis.com,-,TLS1.0,OK
+APP,https://dev-notifications-pa.corp.googleapis.com:443,dev-notifications-pa.corp.googleapis.com,-,TLS1.2,OK
+APP,https://staging-qual-qa-notifications-pa.sandbox.googleapis.com:443,staging-qual-qa-notifications-pa.sandbox.googleapis.com,-,TLS1.0,OK
+APP,https://staging-notifications-pa.sandbox.googleapis.com:443,staging-notifications-pa.sandbox.googleapis.com,-,TLS1.0,OK
+APP,https://autopush-qual-playground-notifications-pa.sandbox.googleapis.com:443,autopush-qual-playground-notifications-pa.sandbox.googleapis.com,-,TLS1.0,OK
+APP,https://autopush-notifications-pa.sandbox.googleapis.com:443,autopush-notifications-pa.sandbox.googleapis.com,-,TLS1.0,OK
+APP,https://notifications-pa.googleapis.com:443,notifications-pa.googleapis.com,-,TLS1.0,OK
+APP,https://github.com/google/gson/blob/main/Troubleshooting.md#,github.com,-,TLS1.3,OK
+APP,https://lh3.googleusercontent.com,lh3.googleusercontent.com,-,TLS1.0,OK
